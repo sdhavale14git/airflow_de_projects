@@ -1,0 +1,5 @@
+﻿requests
+psycopg2-binary
+pandas
+apache-airflow==2.7.1
+apache-airflow-providers-postgres
