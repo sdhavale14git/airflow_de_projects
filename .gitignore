@@ -1,4 +1,5 @@
 logs/
 venv/
+__pycache__/
 .env
 docker-compose.yml
